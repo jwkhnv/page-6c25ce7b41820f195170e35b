@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yuahuo.cn/sitemap.xml

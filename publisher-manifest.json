@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "81e7ccef9993ccc663b116fe",
+  "owner": "jwkhnv",
+  "repo": "page-6c25ce7b41820f195170e35b",
+  "title": "绵羊云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "6c25ce7b41820f195170e35b",
+      "a": "绵羊云",
+      "b": "稳定全球clash加速器",
+      "entity": "绵羊云",
+      "brand": "绵羊云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "5cd2d74a4b832c50980f115895c72075acd1d7c4af559b6c015ad28837333318",
+      "content": {
+        "primary_entity": "绵羊云",
+        "keyword1": "绵羊云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，参考对应订阅导入与节点配置说明。",
+          "AI_CLIENTS_TITLE": "客户端覆盖",
+          "AI_CLOSING_TEXT": "用合适套餐连接稳定网络。",
+          "AI_CLOSING_TITLE": "绵羊云连接全球",
+          "AI_DESCRIPTION": "，绵羊云提供多档订阅套餐，从每月 100GB 到 1000GB 流量可供选择，支持 3 至 20 台设备同时在线，适配常见代理客户端手动导入订阅，适合日常浏览、流媒体与轻量游戏加速场景。",
+          "AI_FEATURES_INTRO": "从流量、设备数与线路三方面挑选适合的订阅方案。",
+          "AI_FEATURES_TITLE": "绵羊云使用要点",
+          "AI_FEATURE_TEXT_1": "按每月流量与在线设备数，在基础版、旗舰版、团队版之间匹配日常需要。",
+          "AI_FEATURE_TITLE_1": "套餐匹配",
+          "AI_FEATURE_TEXT_2": "手机、电脑或路由器可选用对应客户端，按文档导入订阅地址后即可选择节点。",
+          "AI_FEATURE_TITLE_2": "客户端配置",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，旗舰版与团队版提供专线及高带宽节点选项。",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成绵羊云订阅与客户端配置。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "绵羊云面向需要稳定连接的用户，提供基础版、旗舰版与团队版订阅，流量与设备数逐级提升，可搭配常见客户端手动配置订阅。",
+          "AI_HERO_SUBTITLE": "多档订阅，适配多设备",
+          "AI_HIGHLIGHT_1": "月付年付灵活选",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "专线节点游戏优化",
+          "AI_PLANS_INTRO": "基础版每月 100GB 流量、3 台设备；旗舰版每月 300GB、5 台设备并含专线节点；团队版每月 1000GB、20 台设备，支持定制路由。年付均可节省两个月费用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备台数，从三档套餐中选择合适订阅。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TEXT_2": "确认手机、电脑或路由器等设备对应的客户端及系统版本是否满足导入订阅的要求。",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TEXT_3": "参考所选客户端文档，导入订阅地址并选择节点，完成一次连接测试。",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "绵羊云多设备加速",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "绵羊云支持哪些客户端？",
+          "AI_FAQ_ANSWER_1": "支持 Clash Verge、ClashX、Shadowrocket、Stash、Surge、v2rayN、Surfboard 等主流客户端，具体以设备系统版本为准。",
+          "AI_FAQ_QUESTION_2": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备同时在线，按套餐档位区分。",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_3": "年付方案相比月付价格更优惠，基础版 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，功能权益与月付一致。",
+          "AI_FAQ_QUESTION_4": "流量用完了怎么办？",
+          "AI_FAQ_ANSWER_4": "基础版每月 100GB，旗舰版每月 300GB，团队版每月 1000GB。流量用尽后可以升级套餐或等待下个计费周期重置。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅链接？",
+          "AI_FAQ_ANSWER_5": "在对应客户端中找到订阅配置入口，粘贴订阅链接后更新节点列表，即可完成导入并选择节点使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "yuahuo.cn",
+    "host": "yuahuo.cn"
+  },
+  "file_hashes": {
+    "index.html": "df1ce25bee2c8d5ebe39e6793b0acaed73ead6f4690f7657e0461c5d972e295b",
+    "sitemap.xml": "3e698e99eef8d21fbc516693114d254f609e74d9c2f037c6aef7bb036d97cd9c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "42bdf7df3ed900053125f709349eb1bdbd0451ba171022ee85c0e7b33980d9f3",
+    "robots.txt": "80638abf322071c0ca178fd59e501a8eac23290e5602dd4d817be0ae875f16d0",
+    "e14eb154fa3c05f551a40fcd3d003be6.txt": "e419f3ecb3767ea1f633c071bf2e4584c458a0fce4842508cf2ca361ad4a8822"
+  },
+  "revision": "a69774267ccd48e383b089a963f3988e9fd49d255247efccd53670e45207a130"
+}
